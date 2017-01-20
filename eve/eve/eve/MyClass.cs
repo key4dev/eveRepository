@@ -10,6 +10,7 @@ namespace eve
     {
         public MyClass()
         {
+
         }
     }
 }
