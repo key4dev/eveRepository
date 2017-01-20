@@ -4,7 +4,7 @@ namespace eve
 {
 
     /// <summary>
-    /// pippo
+    /// pippo e pluto
     /// </summary>
     public class MyClass
     {
