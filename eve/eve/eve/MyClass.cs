@@ -4,7 +4,7 @@ namespace eve
 {
 
     /// <summary>
-    /// pippo e pluto e paperino topolino minnie equi qui
+    /// pippo e pluto e paperino topolino minnie equi qui wwwww
     /// </summary>
     public class MyClass
     {
